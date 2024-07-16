@@ -1,0 +1,2 @@
+# Ushtrime
+Ushtrime per objekte
